@@ -111,67 +111,67 @@
 			{
 				"name": "策略管理工具",
 				"view": "Policy",
-				"patth": "oscartools/Policy/"
+				"path": "oscartools/Policy/"
 			},
 			{
 				"name": "参数配置工具",
 				"view": "ConfigWizzard_V2.0",
-				"patth": "oscartools/ConfigWizzard_V2.0/"
+				"path": "oscartools/ConfigWizzard_V2.0/"
 			},
 			{
 				"name": "逻辑备份恢复工具",
 				"view": "backup&&restore_V2.0",
-				"patth": "oscartools/backup&&restore_V2.0/"
+				"path": "oscartools/backup&&restore_V2.0/"
 			},
 			{
 				"name": "审计工具",
 				"view": "auditor_V1.0",
-				"patth": "oscartools/auditor_V1.0/"
+				"path": "oscartools/auditor_V1.0/"
 			},
 			{
 				"name": "升级工具",
 				"view": "update_V1.0",
-				"patth": "oscartools/update_V1.0/"
+				"path": "oscartools/update_V1.0/"
 			},
 			{
 				"name": "数据库配置工具",
 				"view": "DBConfiger_V1.0",
-				"patth": "oscartools/DBConfiger_V1.0/"
+				"path": "oscartools/DBConfiger_V1.0/"
 			},
 			{
 				"name": "数据库维护工具",
 				"view": "OEMTool_V2.0",
-				"patth": "oscartools/OEMTool_V2.0/"
+				"path": "oscartools/OEMTool_V2.0/"
 			},
 			{
 				"name": "数据迁移工具（JAVA）",
 				"view": "Migration_CrossPlatform",
-				"patth": "oscartools/Migration_CrossPlatform/"
+				"path": "oscartools/Migration_CrossPlatform/"
 			},
 			{
 				"name": "性能监测工具",
 				"view": "PerObserv_V1.0",
-				"patth": "oscartools/PerObserv_V1.0/"
+				"path": "oscartools/PerObserv_V1.0/"
 			},
 			{
 				"name": "逻辑备份与恢复工具（ORACLE）",
 				"view": "OracleExport",
-				"patth": "oscartools/OracleExport/"
+				"path": "oscartools/OracleExport/"
 			},
 			{
 				"name": "anywhere",
 				"view": "anywhere_V1.0",
-				"patth": "oscartools/anywhere_V1.0/"
+				"path": "oscartools/anywhere_V1.0/"
 			},
 			{
 				"name": "Hibernate",
 				"view": "oscarHibernate",
-				"patth": "oscartools/oscarHibernate/"
+				"path": "oscartools/oscarHibernate/"
 			},
 			{
 				"name": "同步工具",
 				"view": "SyncTool",
-				"patth": "oscartools/SyncTool/"
+				"path": "oscartools/SyncTool/"
 			}
 		]
 	}

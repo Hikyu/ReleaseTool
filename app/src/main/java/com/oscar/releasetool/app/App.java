@@ -23,6 +23,5 @@ public class App {
 		CmdExecutor executor = new CmdExecutor(cmd);
 		executor.execute();
 	}
-
 	
 }
