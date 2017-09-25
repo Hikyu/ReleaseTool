@@ -1,0 +1,179 @@
+{
+	"stURL": "fuqiuying:@192.168.101.4:49201/",
+	"releaseLabelSuffix": "release",
+	"personInCharge": "杜怀宇",
+	"releaseListPath": "D:/code/产品版本发布记录/神通xCluster集群件/20170921_王洋洋_神通并行数据库2017年9月改款_01.xlsx",
+	"activeComponentCenter": "oscar",
+	"componentCenter": {
+		"cluster": [
+			{
+				"name": "JDBC驱动",
+				"view": "oscarJDBC_V1.0",
+				"path": "oscartools/oscarJDBC_V1.0/"
+			},
+			{
+				"name": "ClusterJDBC驱动",
+				"view": "xClusterJDBC3.5",
+				"path": "oscar_clusterware/xClusterJDBC3.5/"
+			},
+			{
+				"name": "oscarJDBC驱动",
+				"view": "kstoreJDBC",
+				"path": "oscartools/kstoreJDBC/"
+			},
+			{
+				"name": "anywhere",
+				"view": "anywhere_V1.0",
+				"path": "oscartools/anywhere_V1.0/"
+			},
+			{
+				"name": "DBA管理工具",
+				"view": "KSTOREdbamngr_V1.0",
+				"path": "oscartools/KSTOREdbamngr_V1.0/"
+			},
+			{
+				"name": "SQL交互工具",
+				"view": "KSTOREqueryanalyze",
+				"path": "oscartools/KSTOREqueryanalyze/"
+			},
+			{
+				"name": "参数配置工具",
+				"view": "ConfigWizzard_V2.0",
+				"path": "oscartools/ConfigWizzard_V2.0/"
+			},
+			{
+				"name": "升级工具",
+				"view": "update_V1.0",
+				"path": "oscartools/update_V1.0/"
+			},
+			{
+				"name": "数据库维护工具",
+				"view": "OEMTool_V2.0",
+				"path": "oscartools/OEMTool_V2.0/"
+			},
+			{
+				"name": "数据迁移工具",
+				"view": "MigrationTool_Shenjishu",
+				"path": "oscartools/MigrationTool_Shenjishu/"
+			},
+			{
+				"name": "集群逻辑备份恢复工具",
+				"view": "ClusterImpExpTool",
+				"path": "oscartools/ClusterImpExpTool/"
+			},
+			{
+				"name": "集群维护工具",
+				"view": "PhysicalBackupRestore3.0",
+				"path": "oscar_clusterware/PhysicalBackupRestore3.0/"
+			},
+			{
+				"name": "集群WEB管理工具",
+				"view": "xClusterManagementTool_xCluster3.5",
+				"path": "oscar_clusterware/xClusterManagementTool_xCluster3.5/"
+			},
+			{
+				"name": "集群逻辑备份恢复工具",
+				"view": "ClusterImpExpTool",
+				"path": "oscartools/ClusterImpExpTool/"
+			},
+			{
+				"name": "数据库配置工具",
+				"view": "KStoreDBConfiger",
+				"path": "BIGDATA_DOC/KStoreDBConfiger/"
+			}
+		],
+		"oscar": [
+			{
+				"name": "JDBC驱动",
+				"view": "oscarJDBC_V1.0",
+				"path": "oscartools/oscarJDBC_V1.0/"
+			},
+			{
+				"name": "JDBC1.4驱动",
+				"view": "OscarJDBC14",
+				"path": "oscartools/OscarJDBC14/"
+			},
+			{
+				"name": "jdbc1.6驱动",
+				"view": "oscarJDBC_4.0",
+				"path": "oscartools/oscarJDBC_4.0/"
+			},
+			{
+				"name": "DBA管理工具",
+				"view": "dbamngr_V1.0",
+				"path": "oscartools/dbamngr_V1.0/"
+			},
+			{
+				"name": "SQL交互工具",
+				"view": "queryanalyze_V1.0",
+				"path": "oscartools/queryanalyze_V1.0/"
+			},
+			{
+				"name": "策略管理工具",
+				"view": "Policy",
+				"patth": "oscartools/Policy/"
+			},
+			{
+				"name": "参数配置工具",
+				"view": "ConfigWizzard_V2.0",
+				"patth": "oscartools/ConfigWizzard_V2.0/"
+			},
+			{
+				"name": "逻辑备份恢复工具",
+				"view": "backup&&restore_V2.0",
+				"patth": "oscartools/backup&&restore_V2.0/"
+			},
+			{
+				"name": "审计工具",
+				"view": "auditor_V1.0",
+				"patth": "oscartools/auditor_V1.0/"
+			},
+			{
+				"name": "升级工具",
+				"view": "update_V1.0",
+				"patth": "oscartools/update_V1.0/"
+			},
+			{
+				"name": "数据库配置工具",
+				"view": "DBConfiger_V1.0",
+				"patth": "oscartools/DBConfiger_V1.0/"
+			},
+			{
+				"name": "数据库维护工具",
+				"view": "OEMTool_V2.0",
+				"patth": "oscartools/OEMTool_V2.0/"
+			},
+			{
+				"name": "数据迁移工具（JAVA）",
+				"view": "Migration_CrossPlatform",
+				"patth": "oscartools/Migration_CrossPlatform/"
+			},
+			{
+				"name": "性能监测工具",
+				"view": "PerObserv_V1.0",
+				"patth": "oscartools/PerObserv_V1.0/"
+			},
+			{
+				"name": "逻辑备份与恢复工具（ORACLE）",
+				"view": "OracleExport",
+				"patth": "oscartools/OracleExport/"
+			},
+			{
+				"name": "anywhere",
+				"view": "anywhere_V1.0",
+				"patth": "oscartools/anywhere_V1.0/"
+			},
+			{
+				"name": "Hibernate",
+				"view": "oscarHibernate",
+				"patth": "oscartools/oscarHibernate/"
+			},
+			{
+				"name": "同步工具",
+				"view": "SyncTool",
+				"patth": "oscartools/SyncTool/"
+			}
+		]
+	}
+	
+}
